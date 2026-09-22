@@ -12,6 +12,6 @@ Course
 Python for Everybody Specialization
 University of Michigan — Coursera
 
-Course Link
+Course Link: 
 
 This repository documents my progress and practice throughout the course.
