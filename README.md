@@ -7,9 +7,7 @@ The files and folders are organized using the same names and structure as the co
 
 
 
-Course
-
-Python for Everybody Specialization
+Course : Python for Everybody Specialization
 University of Michigan — Coursera
 
 Course Link: https://www.coursera.org/specializations/python
